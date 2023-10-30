@@ -51,3 +51,5 @@ if __name__ == "__main__":
 
 **Deployed to pypi, made a repository on github and came up with an idea (or maybe not): [AleksFolt](https://github.com/aleksfolt)**
 
+**PyPi: https://pypi.org/project/gigathon-api/0.0.1/**
+
