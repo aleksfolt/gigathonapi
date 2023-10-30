@@ -21,6 +21,10 @@ Import:
 <pre>
 from gigachat-api import GigaChat
 import asyncio
+
+api_token = "your_token"
+
+client = GigaChat(api_token, "leave it like that")
 </pre>
 Usage:
 <pre>
