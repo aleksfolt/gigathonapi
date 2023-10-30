@@ -13,9 +13,7 @@ This is not the official library for the gigachat.ru messenger. We are not respo
 
 # Install
 
-<pre>$ pip install bardapi</pre> 
-or 
-<pre>$ pip install git+https://github.com/dsdanielpark/Bard-API.git</pre>
+<pre>$ pip install gigathon-api==0.0.1</pre> 
 
 # Usage
 
